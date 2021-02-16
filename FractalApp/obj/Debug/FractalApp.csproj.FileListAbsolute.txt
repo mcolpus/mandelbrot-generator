@@ -1,0 +1,9 @@
+D:\Documents\1GeneralProjects\Mandelbrot\FractalApp\FractalApp\bin\Debug\FractalApp.exe.config
+D:\Documents\1GeneralProjects\Mandelbrot\FractalApp\FractalApp\bin\Debug\FractalApp.exe
+D:\Documents\1GeneralProjects\Mandelbrot\FractalApp\FractalApp\bin\Debug\FractalApp.pdb
+D:\Documents\1GeneralProjects\Mandelbrot\FractalApp\FractalApp\obj\Debug\FractalApp.csprojResolveAssemblyReference.cache
+D:\Documents\1GeneralProjects\Mandelbrot\FractalApp\FractalApp\obj\Debug\FractalApp.Form1.resources
+D:\Documents\1GeneralProjects\Mandelbrot\FractalApp\FractalApp\obj\Debug\FractalApp.Properties.Resources.resources
+D:\Documents\1GeneralProjects\Mandelbrot\FractalApp\FractalApp\obj\Debug\FractalApp.csproj.GenerateResource.Cache
+D:\Documents\1GeneralProjects\Mandelbrot\FractalApp\FractalApp\obj\Debug\FractalApp.exe
+D:\Documents\1GeneralProjects\Mandelbrot\FractalApp\FractalApp\obj\Debug\FractalApp.pdb
